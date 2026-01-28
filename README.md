@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Mohiudd1n/Mohiudd1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋 I'm Mohiuddin
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student  
+💻 Flutter | Web | Databases  
+🚀 Building projects & startups  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- Flutter
+- Firebase
+- React
+- Node.js
+
+### 📫 Connect with me
+- GitHub: @Mohiudd1n
