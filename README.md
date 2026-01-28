@@ -1,14 +1,70 @@
-## Hi 👋 I'm Mohiuddin
+<h1 align="center">Hi 👋, I'm Mohiuddin Merchant</h1>
 
-🎓 Computer Engineering Student  
-💻 Flutter | Web | Databases  
-🚀 Building projects & startups  
+<p align="center">
+  💻 Computer Engineering Student • Flutter & Web Developer  
+</p>
 
-### 🔧 Tech Stack
+---
+
+## 👨‍💻 About Me
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" width="280px" align="right"/>
+
+- 🎓 2nd Year Computer Engineering student  
+- 📱 Building apps using **Flutter** & **Firebase / Supabase**  
+- 🌐 Experience with **Web Development (HTML, CSS, JS, React basics)**  
+- 🚀 Interested in **remote work, startups, and high-impact tech careers**  
+- 🌍 Aspiring to work internationally (Middle East / Remote)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Dart
+- JavaScript
+- Python
+- SQL
+
+**Frameworks & Tools**
 - Flutter
 - Firebase
-- React
-- Node.js
+- Supabase
+- React (basic)
+- Node.js (basic)
 
-### 📫 Connect with me
-- GitHub: @Mohiudd1n
+**Developer Tools**
+- Git & GitHub  
+- VS Code  
+- Linux / Windows  
+
+---
+
+## 📂 Projects
+(Some of these are learning + real use projects)
+
+- 📱 **Flutter Apps** – authentication, UI, Firebase integration  
+- 🌐 **Web Projects** – static & dynamic sites  
+- 🗄 **Database Projects** – SQL schemas, Supabase, Firebase  
+- 🤖 **Experimenting with AI tools** for productivity & automation  
+
+> I focus on **learning by building**, not fake stats.
+
+---
+
+## 📈 GitHub Activity
+I actively push code while learning and experimenting.  
+Expect frequent commits, refactors, and improvements.
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Mohiudd1n  
+
+*(More links will be added as I build real things.)*
+
+---
+
+<p align="center">
+<b>🚀 Building skills > showing fake badges.</b><br>
+<b>⭐ Star repositories if you find them useful.</b>
+</p>
