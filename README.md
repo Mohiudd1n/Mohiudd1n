@@ -29,8 +29,8 @@
 - Flutter
 - Firebase
 - Supabase
-- React (basic)
-- Node.js (basic)
+- React
+- Node.js 
 
 **Developer Tools**
 - Git & GitHub  
@@ -60,7 +60,6 @@ Expect frequent commits, refactors, and improvements.
 ## 📫 Connect With Me
 - GitHub: https://github.com/Mohiudd1n  
 
-*(More links will be added as I build real things.)*
 
 ---
 
